@@ -40,11 +40,11 @@ This project aims to analyze sales data to identify the key products driving and
 ## Results
 The results of the analysis are presented in the form of visualizations and dashboards created in Tableau. Entire analysis is documented inside the report where entire methodology and insights have been presented thoroughly.
 
+Additionally, entire analysis file for tableau has been attached (named `Superstore Project.twbx`) and detailed report of the entire project in (named `Superstore Analysis Report.pdf`).
+
 ## Dashboard Images:
 
 <img src="sales dash 2020.png">
 <img src="customer dash 2020.png">
-<img src="dashboard snap 3.png">
-<img src="dashboard snap 4.png">
 
 
