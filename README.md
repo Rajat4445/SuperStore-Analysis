@@ -1,4 +1,4 @@
-# <center> Telco Customer Churn Analysis
+# <center> Super Store Sales Analysis
 
 ## Introduction
 
